@@ -1,7 +1,7 @@
  # 💫 About Me
 
 👋 Hi, I am **Shandhiya Chhetri**  
-🎓 B.Tech student in **Computer Science & Engineering** at **National Institute of Technology Sikkim**  
+🎓 B.Tech student in **Computer Science & Engineering** at * *  
 💻 Passionate about **Web Development, Problem Solving, and Software Engineering**  
 🌱 Currently learning **Full Stack Development & Data Structures**
 
